@@ -20,6 +20,12 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 
 [Designing deep networks for surface normal estimation (2015)](https://arxiv.org/abs/1411.4958)[[github]](https://github.com/xiaolonw/caffe-3dnormal)
 
+<img src="https://www.cs.cmu.edu/~xiaolonw/deep3d/fig1.jpg" width="350">
+
+[Deep Depth Completion of a Single RGB-D Image (2018)](http://deepcompletion.cs.princeton.edu/) [[github]](https://github.com/yindaz/DeepCompletionRelease)
+
+<img src="http://deepcompletion.cs.princeton.edu/pipeline.jpg" width="350">
+
 ## 3D Shape Reconstruction
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
