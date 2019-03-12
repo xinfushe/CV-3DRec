@@ -80,3 +80,7 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 
 [Shape from symmetry (2005)](https://ieeexplore.ieee.org/document/1544938)
 
+[Object detectors emerge in deep scene cnns (2014)](https://arxiv.org/abs/1412.6856)
+
+<img src="https://i.pinimg.com/564x/a0/7f/52/a07f52f8517a76460a006da5281ecc6f.jpg" width="350">
+
