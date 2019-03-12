@@ -18,6 +18,7 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 
 <img src="https://image.slidesharecdn.com/structurefrommotionbydeeplearning-170604074540/95/deep-learning-for-3d-scene-reconstruction-and-modeling-42-638.jpg?cb=1522519395" width="350">
 
+[Designing deep networks for surface normal estimation (2015)](https://arxiv.org/abs/1411.4958)[[github]](https://github.com/xiaolonw/caffe-3dnormal)
 
 ## 3D Shape Reconstruction
 
@@ -25,6 +26,11 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 [Single-view reconstruction via joint analysis of image and shape collections (2015)](https://www.cs.utexas.edu/~huangqx/modeling_sig15.pdf) [[github]](https://github.com/huangqx/image_shape_align)
 
 <img src="http://vladlen.info/wp-content/uploads/2015/05/single-view.png" width="350">
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Data-driven structural priors for shape completion (2015)](http://www.vovakim.com/papers/15_SIGGRAPHAsia_ShapeCompletion.pdf)
+
+<img src="http://geometry.stanford.edu//papers/skag-dspsc-15/image.gif" width="350">
 
 [Generative and discriminative voxel modeling with convolutional neural networks (2016)](https://arxiv.org/abs/1608.04236) [[github]](https://github.com/ajbrock/Generative-and-Discriminative-Voxel-Modeling)
 
@@ -60,4 +66,6 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 [Partial and approximate symmetry detection for 3D geometry (2006)](https://lgg.epfl.ch/publications/2006/mitra_2006_PAS.pdf)
 
 <img src="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/approx_symmetry/paper_docs/approx_symmetry_sig_06.gif" width="300">
+
+[Shape from symmetry (2005)](https://ieeexplore.ieee.org/document/1544938)
 
