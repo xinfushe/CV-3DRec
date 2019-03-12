@@ -55,3 +55,9 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 
 <img src="https://camo.githubusercontent.com/661bb925e809245ab8ed76460ee4728b5e296e2a/687474703a2f2f70697833642e637361696c2e6d69742e6564752f696d616765732f73706f746c696768745f70697833642e6a7067" width="350">
 
+# Properties and Features 
+
+[Partial and approximate symmetry detection for 3D geometry (2006)](https://lgg.epfl.ch/publications/2006/mitra_2006_PAS.pdf)
+
+<img src="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/approx_symmetry/paper_docs/approx_symmetry_sig_06.gif" width="300">
+
