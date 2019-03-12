@@ -21,8 +21,12 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 
 ## 3D Shape Reconstruction
 
-[Generative and discriminative voxel modeling with convolutional neural networks (2016)](https://arxiv.org/abs/1608.04236)
+[Single-view reconstruction via joint analysis of image and shape collections (2015)](https://www.cs.utexas.edu/~huangqx/modeling_sig15.pdf) [[github]](https://github.com/huangqx/image_shape_align)
 
-[Shape completion using 3d-encoder-predictor CNNs and shape synthesis (2017)](https://arxiv.org/abs/1612.00101)
+<img src="http://vladlen.info/wp-content/uploads/2015/05/single-view.png" width="350">
 
-<img src="https://github.com/angeladai/cnncomplete/raw/master/imgs/teaser.jpg" width="350"> [[github]](https://github.com/angeladai/cnncomplete)
+[Generative and discriminative voxel modeling with convolutional neural networks (2016)](https://arxiv.org/abs/1608.04236) [[github]](https://github.com/ajbrock/Generative-and-Discriminative-Voxel-Modeling)
+
+[Shape completion using 3d-encoder-predictor CNNs and shape synthesis (2017)](https://arxiv.org/abs/1612.00101) [[github]](https://github.com/angeladai/cnncomplete)
+
+<img src="https://github.com/angeladai/cnncomplete/raw/master/imgs/teaser.jpg" width="350"> 
