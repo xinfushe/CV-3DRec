@@ -33,6 +33,11 @@ Computer Vision - 3D Reconstruction: Depth, Shape, Pose
 
 <img src="http://vladlen.info/wp-content/uploads/2015/05/single-view.png" width="350">
 
+[3d shapenets: A deep representation for volumetric shapes (2015)](http://3dshapenets.cs.princeton.edu/)
+
+<img src="http://3dshapenets.cs.princeton.edu/teaser.jpg" width="300">
+
+
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [Data-driven structural priors for shape completion (2015)](http://www.vovakim.com/papers/15_SIGGRAPHAsia_ShapeCompletion.pdf)
 
